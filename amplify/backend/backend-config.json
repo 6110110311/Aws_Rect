@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsrectfc8f385d": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
